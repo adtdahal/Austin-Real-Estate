@@ -8,7 +8,7 @@ The goal of this project is to conduct an advanced exploratory analysis of Austi
 
 ● Which factors contribute the most to housing prices?  
 ● Which areas of Austin have more expensive/affordable real estate?  
-● Are there certain months when house purchasing activity is the busiest?  
+● When is house purchasing activity the busiest?  
 ● How has the median housing price changed over time?  
 
 ## Data Set
