@@ -15,3 +15,4 @@ The goal of this project is to conduct an advanced exploratory analysis of Austi
 ●  [Austin, TX House Listing](https://www.kaggle.com/datasets/ericpierce/austinhousingprices)
 
 ## Deliverables
+[Data Dashboard](https://public.tableau.com/app/profile/aditi8442/viz/6_7AustinTXRealEstate/Story1?publish=yes)
