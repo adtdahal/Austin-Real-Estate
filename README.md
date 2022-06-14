@@ -12,7 +12,7 @@ The goal of this project is to conduct an advanced exploratory analysis of Austi
 ● How has the median housing price changed over time?  
 
 ## Data Set
-[Austin, TX House Listing](https://www.kaggle.com/datasets/ericpierce/austinhousingprices)
+[Austin, TX House Listings](https://www.kaggle.com/datasets/ericpierce/austinhousingprices)
 
 ## Deliverables
 [Data Dashboard](https://public.tableau.com/app/profile/aditi8442/viz/6_7AustinTXRealEstate/Story1?publish=yes)
